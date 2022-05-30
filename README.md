@@ -16,5 +16,8 @@
   <a href="https://slackin-opengeode.herokuapp.com">
     <img src="https://slackin-opengeode.herokuapp.com/badge.svg" alt="Slack invite">
   </a>
+  <a href="https://doi.org/10.5281/zenodo.6592422">
+    <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.6592422.svg" alt="DOI">
+  </a>
 
 Copyright (c) 2019 - 2022, Geode-solutions
