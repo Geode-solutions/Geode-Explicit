@@ -1,6 +1,5 @@
 {
     "description": "Geode-solutions OpenGeode module for building explicit models",
     "title": "Geode-ExplicitModeling",
-    "license": "proprietary",
     "creators": [{"name": "Geode-solutions"}]
 }
