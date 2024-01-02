@@ -20,4 +20,4 @@
     <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.6592422.svg" alt="DOI">
   </a>
 
-Copyright (c) 2019 - 2023, Geode-solutions
+Copyright (c) 2019 - 2024, Geode-solutions
